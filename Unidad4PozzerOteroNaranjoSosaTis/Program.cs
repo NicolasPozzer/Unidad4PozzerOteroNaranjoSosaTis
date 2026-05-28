@@ -1,13 +1,6 @@
 ﻿namespace Unidad4PozzerOteroNaranjoSosaTis;
 
-/*
-    Integrantes del Grupo "Byte Builders":
-    -   Jose Nicolas Pozzer -   DNI: 42579253
-    -   Ignacio Otero       -   DNI: 47029270
-    -   Noheli Naranjo Vega -   DNI: 39894892
-    -   Ignacio Sosa        -   DNI: 28079719
-    -   Maximiliano Tis     -   DNI: 33686725
-*/
+
 class Program
 {
     static void Main(string[] args)
