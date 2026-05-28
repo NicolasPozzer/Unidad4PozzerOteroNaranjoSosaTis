@@ -24,7 +24,7 @@ class Program
          */
         
         Mensaje("--- Inicio del Programa ---");
-        SolicitarAlturas_.SolicitarAlturas();                      // PUNTO 3
+        SolicitarAlturas_.SolicitarAlturas();                    // PUNTO 3
         SolicitarYCalcularNotas_.SolicitarYCalcularNotas();      // PUNTO 4
         DiccionarioPalabras_.DiccionarioPalabras();              // PUNTO 5
         OrdenarNumerosDescendente_.OrdenarNumerosDescendente();  // PUNTO 6
